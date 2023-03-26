@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pavankulal2002&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pavankulal2002&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
